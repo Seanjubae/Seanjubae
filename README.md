@@ -1,4 +1,4 @@
-### Hi there 👋
+### 가톨릭대학교 의학과 배승주
 
 <!--
 **Seanjubae/Seanjubae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
